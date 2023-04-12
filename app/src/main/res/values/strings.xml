@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dejavoo</string>
+    <string name="mikronexus">Mikronexus</string>
+    <string name="com_mikronexus_cfa">com.mikronexus.cfa</string>
+    <string name="dejavoo">Dejavoo</string>
+    <string name="switch_text">Switch</string>
+
+</resources>
